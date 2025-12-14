@@ -1,7 +1,7 @@
 /*
 For playing the game:
 Press "A" for shifting the ball to the left side,
-Press "D" for shifting the ball to the left side,
+Press "D" for shifting the ball to the right side,
 Lastly if the game over,
 Press "R" to restart the game.
 
